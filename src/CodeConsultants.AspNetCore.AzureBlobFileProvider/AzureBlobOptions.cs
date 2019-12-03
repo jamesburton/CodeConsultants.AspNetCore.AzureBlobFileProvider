@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Strathweb.AspNetCore.AzureBlobFileProvider
+namespace CodeConsultants.AspNetCore.AzureBlobFileProvider
 {
     public class AzureBlobOptions
     {

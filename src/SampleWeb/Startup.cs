@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Strathweb.AspNetCore.AzureBlobFileProvider;
+using CodeConsultants.AspNetCore.AzureBlobFileProvider;
 
 namespace SampleWeb
 {

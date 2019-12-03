@@ -2,7 +2,7 @@
 using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Primitives;
 
-namespace Strathweb.AspNetCore.AzureBlobFileProvider
+namespace CodeConsultants.AspNetCore.AzureBlobFileProvider
 {
     public class AzureBlobFileProvider : IFileProvider
     {

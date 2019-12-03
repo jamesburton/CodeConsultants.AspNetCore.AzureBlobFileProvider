@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strathweb.AspNetCore.AzureBlobFileProvider", "src\Strathweb.AspNetCore.AzureBlobFileProvider\Strathweb.AspNetCore.AzureBlobFileProvider.csproj", "{B6CE1911-C8FE-474D-9865-1D63961F94B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConsultants.AspNetCore.AzureBlobFileProvider", "src\CodeConsultants.AspNetCore.AzureBlobFileProvider\CodeConsultants.AspNetCore.AzureBlobFileProvider.csproj", "{B6CE1911-C8FE-474D-9865-1D63961F94B4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{E182D482-D1CB-45FE-946D-993FD35240BD}"
 EndProject

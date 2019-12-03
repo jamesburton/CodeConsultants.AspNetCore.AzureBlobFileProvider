@@ -3,7 +3,7 @@ using Microsoft.Azure.Storage;
 using Microsoft.Azure.Storage.Auth;
 using Microsoft.Azure.Storage.Blob;
 
-namespace Strathweb.AspNetCore.AzureBlobFileProvider
+namespace CodeConsultants.AspNetCore.AzureBlobFileProvider
 {
     public class DefaultBlobContainerFactory : IBlobContainerFactory
     {

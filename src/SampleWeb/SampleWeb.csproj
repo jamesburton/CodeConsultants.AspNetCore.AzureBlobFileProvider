@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Strathweb.AspNetCore.AzureBlobFileProvider\Strathweb.AspNetCore.AzureBlobFileProvider.csproj" />
+    <ProjectReference Include="..\CodeConsultants.AspNetCore.AzureBlobFileProvider\CodeConsultants.AspNetCore.AzureBlobFileProvider.csproj" />
   </ItemGroup>
 
 </Project>
